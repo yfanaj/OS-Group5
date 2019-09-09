@@ -11,15 +11,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Course: Operating System
+## Group: Group 5
+### Member
 
-- Bulleted
-- List
+- Deadline
 
-1. Numbered
-2. List
+1. 9.16: Group Name and GitHub Page
+2. 10.7: Milestone
+3. 11.18: Project
+4. 12.2: Presentation
 
 **Bold** and _Italic_ and `Code` text
 
