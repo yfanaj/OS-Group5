@@ -4,16 +4,7 @@ You can use the [editor on GitHub](https://github.com/yfanaj/OS-Group5/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Course: Operating System
-## Group: Group 5
-### Member
+### Operating System
 
 - Deadline
 
@@ -21,6 +12,15 @@ Syntax highlighted code block
 2. 10.7: Milestone
 3. 11.18: Project
 4. 12.2: Presentation
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+
 
 **Bold** and _Italic_ and `Code` text
 
